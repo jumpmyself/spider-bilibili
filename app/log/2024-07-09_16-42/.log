@@ -1,0 +1,6 @@
+检查登录态时请求失败:Get "https://api.bilibili.com/x/web-interface/nav": context deadline exceeded (Client.Timeout exceeded while awaiting headers)
+初始化 Cookie Jar
+请求二维码
+读取二维码响应内容
+生成二维码图像
+二维码保存为qrcodes\qrcode.png

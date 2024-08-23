@@ -1,0 +1,2 @@
+电影：http请求失败Get "https://www.bilibili.com/bangumi/play/ss37947?theme=movie": context deadline exceeded (Client.Timeout exceeded while awaiting headers)
+[GIN] 2024-07-09 14:26:24 |%!s(int=200)| 2410469700 | 127.0.0.1 | GET | /movie

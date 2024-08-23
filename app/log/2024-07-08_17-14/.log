@@ -1,0 +1,14 @@
+初始化 Cookie Jar
+请求二维码
+读取二维码响应内容
+生成二维码图像
+二维码保存为 qrcode.png
+[GIN] 2024-07-08 17:14:24 |%!s(int=200)| 1120200 | 106.11.63.79 | GET | /getimage?imageName=qrcode.png
+[GIN] 2024-07-08 17:14:24 |%!s(int=200)| 530300 | 59.82.21.177 | GET | /getimage?imageName=qrcode.png
+轮询登录状态
+登录成功
+初始化 Cookie Jar
+请求二维码
+读取二维码响应内容
+生成二维码图像
+二维码保存为 qrcode.png

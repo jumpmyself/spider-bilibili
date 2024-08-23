@@ -1,0 +1,6 @@
+[GIN] 2024-07-08 17:42:24 |%!s(int=200)| 552600 | 42.233.2.88 | GET | /getimage?imageName=qrcode.png
+初始化 Cookie Jar
+请求二维码
+读取二维码响应内容
+生成二维码图像
+二维码保存为qrcodes\qrcode.png

@@ -1,0 +1,8 @@
+[GIN] 2024-07-09 20:03:24 |%!s(int=200)| 1500718300 | 127.0.0.1 | GET | /fanju
+检查登录态时请求失败:Get "https://api.bilibili.com/x/web-interface/nav": context deadline exceeded (Client.Timeout exceeded while awaiting headers)
+初始化 Cookie Jar
+请求二维码
+读取二维码响应内容
+生成二维码图像
+二维码保存为qrcodes\qrcode.png
+[GIN] 2024-07-09 20:03:24 |%!s(int=200)| 2753559800 | 127.0.0.1 | GET | /fanju

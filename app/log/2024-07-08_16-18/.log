@@ -1,0 +1,15 @@
+[GIN] 2024-07-08 16:18:24 |%!s(int=404)| 0 | 39.144.22.135 | GET | /getImage?imageName=../../qrcode.png
+[GIN] 2024-07-08 16:18:24 |%!s(int=404)| 0 | 39.144.22.135 | GET | /getImage?imageName=../../qrcode.png
+[GIN] 2024-07-08 16:18:24 |%!s(int=404)| 0 | 39.144.22.135 | GET | /getImage?imageName=../../qrcode.png
+[GIN] 2024-07-08 16:18:24 |%!s(int=404)| 0 | 39.144.22.135 | GET | /getImage?imageName=../../qrcode.png
+[GIN] 2024-07-08 16:18:24 |%!s(int=404)| 0 | 39.144.22.135 | GET | /getImage?imageName=../../qrcode.png
+[GIN] 2024-07-08 16:18:24 |%!s(int=404)| 0 | 39.144.22.135 | GET | /getImage?imageName=../../qrcode.png
+[GIN] 2024-07-08 16:18:24 |%!s(int=404)| 0 | 39.144.22.135 | GET | /getImage?imageName=../../qrcode.png
+[GIN] 2024-07-08 16:18:24 |%!s(int=404)| 0 | 39.144.22.135 | GET | /getImage?imageName=../../qrcode.png
+初始化 Cookie Jar
+请求二维码
+读取二维码响应内容
+生成二维码图像
+创建二维码文件失败open qrcode/qrcode.png: The system cannot find the path specified.
+编码二维码文件失败invalid argument
+二维码保存为 qrcode.png

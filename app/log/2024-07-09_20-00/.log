@@ -1,0 +1,3 @@
+番剧：http请求失败Get "https://www.bilibili.com/bangumi/play/ss47836": net/http: invalid header field value for "Sec-Ch-Ua-Platform"
+番剧：http请求失败Get "https://www.bilibili.com/bangumi/play/ss47794": net/http: invalid header field value for "Sec-Ch-Ua-Platform"
+番剧：http请求失败Get "https://www.bilibili.com/bangumi/play/ss21542": net/http: invalid header field value for "Sec-Ch-Ua-Platform"

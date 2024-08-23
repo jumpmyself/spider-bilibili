@@ -1,0 +1,4 @@
+请求bilibili番剧失败Get "https://api.bilibili.com/pgc/season/index/result?st=1&order=3&season_version=-1&spoken_language_type=-1&area=-1&is_finish=-1&copyright=-1&season_status=-1&season_month=-1&year=-1&style_id=-1&sort=0&page=1&season_type=1&pagesize=20&type=1": proxyconnect tcp: dial tcp 219.139.185.253:13067: connectex: No connection could be made because the target machine actively refused it.
+[GIN] 2024-07-01 21:13:24 |%!s(int=200)| 2494149400 | 127.0.0.1 | GET | /fanju
+请求bilibili番剧失败Get "https://api.bilibili.com/pgc/season/index/result?st=1&order=3&season_version=-1&spoken_language_type=-1&area=-1&is_finish=-1&copyright=-1&season_status=-1&season_month=-1&year=-1&style_id=-1&sort=0&page=1&season_type=1&pagesize=20&type=1": proxyconnect tcp: dial tcp 219.139.185.253:13067: connectex: No connection could be made because the target machine actively refused it.
+[GIN] 2024-07-01 21:13:24 |%!s(int=200)| 2480242500 | 127.0.0.1 | GET | /fanju

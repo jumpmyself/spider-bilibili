@@ -1,0 +1,4 @@
+请求bilibili番剧失败Get "": unsupported protocol scheme ""
+[GIN] 2024-07-01 21:20:24 |%!s(int=200)| 2155600 | 127.0.0.1 | GET | /fanju
+请求bilibili番剧失败Get "": unsupported protocol scheme ""
+[GIN] 2024-07-01 21:20:24 |%!s(int=200)| 865400 | 127.0.0.1 | GET | /fanju

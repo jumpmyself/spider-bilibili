@@ -1,0 +1,5 @@
+[GIN] 2024-07-08 17:13:24 |%!s(int=200)| 3411900 | 42.233.2.88 | GET | /getimage?imageName=qrcode.png
+[GIN] 2024-07-08 17:13:24 |%!s(int=200)| 505600 | 42.233.2.88 | GET | /getimage?imageName=qrcode.png
+[GIN] 2024-07-08 17:13:24 |%!s(int=200)| 508800 | 42.233.2.88 | GET | /getimage?imageName=qrcode.png
+[GIN] 2024-07-08 17:13:24 |%!s(int=200)| 1055000 | 42.233.2.88 | GET | /getimage?imageName=qrcode.png
+[GIN] 2024-07-08 17:13:24 |%!s(int=200)| 560000 | 42.233.2.88 | GET | /getimage?imageName=qrcode.png

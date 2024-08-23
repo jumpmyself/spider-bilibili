@@ -1,0 +1,5 @@
+[GIN] 2024-07-02 15:42:24 |%!s(int=200)| 5925942400 | 127.0.0.1 | GET | /fanju
+[GIN] 2024-07-02 15:43:24 |%!s(int=200)| 5638845600 | 127.0.0.1 | GET | /fanju
+[GIN] 2024-07-02 15:43:24 |%!s(int=200)| 5615060100 | 127.0.0.1 | GET | /fanju
+[GIN] 2024-07-02 15:43:24 |%!s(int=200)| 5532450000 | 127.0.0.1 | GET | /fanju
+番剧：http请求失败Get "https://www.bilibili.com/bangumi/play/ss43622": context deadline exceeded (Client.Timeout exceeded while awaiting headers)

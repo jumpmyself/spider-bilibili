@@ -1,0 +1,11 @@
+初始化 Cookie Jar
+请求二维码
+请求 bilibili 数据失败:Get "https://passport.bilibili.com/x/passport-login/web/qrcode/generate?source=main-fe-header&go_url=https:%2F%2Fwww.bilibili.com%2F": dial tcp: lookup passport.bilibili.com: no such host
+初始化 Cookie Jar
+请求二维码
+请求 bilibili 数据失败:Get "https://passport.bilibili.com/x/passport-login/web/qrcode/generate?source=main-fe-header&go_url=https:%2F%2Fwww.bilibili.com%2F": dial tcp: lookup passport.bilibili.com: no such host
+初始化 Cookie Jar
+请求二维码
+读取二维码响应内容
+生成二维码图像
+二维码保存为qrcodes\qrcode.png

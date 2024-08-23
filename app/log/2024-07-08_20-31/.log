@@ -1,0 +1,19 @@
+轮询登录状态
+登录成功
+初始化 Cookie Jar
+请求二维码
+读取二维码响应内容
+生成二维码图像
+二维码保存为qrcodes\qrcode.png
+[GIN] 2024-07-08 20:31:24 |%!s(int=200)| 611600 | 106.11.63.193 | GET | /getimage?imageName=qrcode.png&t=1720441870
+[GIN] 2024-07-08 20:31:24 |%!s(int=200)| 550800 | 59.82.135.189 | GET | /getimage?imageName=qrcode.png&t=1720441870
+[GIN] 2024-07-08 20:31:24 |%!s(int=200)| 507000 | 42.233.2.88 | GET | /getimage?imageName=qrcode.png&t=1720441870
+轮询登录状态
+登录成功
+初始化 Cookie Jar
+请求二维码
+读取二维码响应内容
+生成二维码图像
+二维码保存为qrcodes\qrcode.png
+[GIN] 2024-07-08 20:31:24 |%!s(int=200)| 2554400 | 106.11.63.174 | GET | /getimage?imageName=qrcode.png&t=1720441908
+[GIN] 2024-07-08 20:31:24 |%!s(int=200)| 3965900 | 59.82.83.68 | GET | /getimage?imageName=qrcode.png&t=1720441908

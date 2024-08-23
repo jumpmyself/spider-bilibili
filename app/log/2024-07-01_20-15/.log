@@ -1,0 +1,2 @@
+请求bilibili番剧失败Get "https://api.bilibili.com/pgc/season/index/result?st=1&order=3&season_version=-1&spoken_language_type=-1&area=-1&is_finish=-1&copyright=-1&season_status=-1&season_month=-1&year=-1&style_id=-1&sort=0&page=1&season_type=1&pagesize=20&type=1": parse "http://{\"code\":10010,\"info\":\"请到后台设置ip白名单\",\"data\":[]}": invalid port ":[]}" after host
+[GIN] 2024-07-01 20:15:24 |%!s(int=200)| 960400 | 127.0.0.1 | GET | /fanju

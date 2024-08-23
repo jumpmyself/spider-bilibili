@@ -1,0 +1,4 @@
+[GIN] 2024-07-02 16:21:24 |%!s(int=200)| 9573850200 | 127.0.0.1 | GET | /fanju
+[GIN] 2024-07-02 16:21:24 |%!s(int=200)| 8922435600 | 127.0.0.1 | GET | /fanju
+[GIN] 2024-07-02 16:21:24 |%!s(int=200)| 8309974400 | 127.0.0.1 | GET | /fanju
+番剧：http请求失败Get "https://www.bilibili.com/bangumi/play/ss38939?theme=movie": read tcp 192.168.30.70:59853->114.233.70.39:16316: wsarecv: An existing connection was forcibly closed by the remote host.

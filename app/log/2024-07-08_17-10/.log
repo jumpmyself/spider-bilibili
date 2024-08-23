@@ -1,0 +1,2 @@
+[GIN] 2024-07-08 17:10:24 |%!s(int=200)| 527200 | 42.233.2.88 | GET | /getimage?imageName=qrcode.png
+[GIN] 2024-07-08 17:10:24 |%!s(int=404)| 0 | 42.233.2.88 | GET | /favicon.ico
